@@ -1,8 +1,8 @@
 # CodePlayGround :: Server Ready
-	Build with NodeJs And ReactJs
+[![GitHub issues](https://img.shields.io/github/issues/kabirkhyrul/Codeplayground-by-Reactjs-nodejs?style=for-the-badge)](https://github.com/kabirkhyrul/Codeplayground-by-Reactjs-nodejs/issues)  [![GitHub forks](https://img.shields.io/github/forks/kabirkhyrul/Codeplayground-by-Reactjs-nodejs?style=for-the-badge)](https://github.com/kabirkhyrul/Codeplayground-by-Reactjs-nodejs/network) [![GitHub stars](https://img.shields.io/github/stars/kabirkhyrul/Codeplayground-by-Reactjs-nodejs?style=for-the-badge)](https://github.com/kabirkhyrul/Codeplayground-by-Reactjs-nodejs/stargazers) 
 
-# Demo
-https://www.kabir.infantinventory.com/react/
+Build with NodeJs And ReactJs
+
 
 # How to use
 1. Download This repo
